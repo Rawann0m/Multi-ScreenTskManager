@@ -40,14 +40,14 @@ Dark Mode Support:
 Switch between light and dark modes.
 
 
-Run the app:
+# Run the app:
 
 
 Select a simulator or a connected device in Xcode.
 Press the Run button (Cmd + R) to build and launch the app.
 
 
-How to Use
+# How to Use
 
 
 Add a Task:
